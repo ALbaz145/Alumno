@@ -1,2 +1,3 @@
 # Alumno
-Este es un repo que el profe pidió xd
+Este es un repositorio que el profe pidió xd ring ring
+# Hola Ringo
