@@ -6,4 +6,4 @@ Este es un repositorio que el profe pidió xd ring ring
 3. jack
 4. rango
 
-[GitHub] (http://github.com)
+[GitHub](http://github.com)
